@@ -39,9 +39,13 @@ Seu gerente já sabe que um assunto será abordado pelo CEO durante a apresenta�
 O CEO está avaliando se continua ou não com a venda de automóveis da marca Jaguar e ele gostaria de saber como
 evoluíram as vendas de automóveis deste fabricante por ano e por estado.
 
-#### Solução proposta
-
+#### Solução
 ##### Visão geral
 ![Visão Geral](https://raw.githubusercontent.com/suhribeiro/datascience_projects/master/powerbi-2-dsa/Cap.2/images/visao_geral.JPG)
 ##### Por fabricante
-![Fabricante](https://github.com/suhribeiro/datascience_projects/blob/master/powerbi-2-dsa/Cap.2/images/fabricante.JPG)
+![Fabricante](https://raw.githubusercontent.com/suhribeiro/datascience_projects/master/powerbi-2-dsa/Cap.2/images/fabricante.JPG)
+##### Dados usados e arquivo .pbix
+
+[Dados](https://github.com/suhribeiro/datascience_projects/tree/master/powerbi-2-dsa/Cap.2/data)
+
+[Arquivo .pbix](https://github.com/suhribeiro/datascience_projects/blob/master/powerbi-2-dsa/Cap.2/Estudo%20de%20Caso1.pbix)
