@@ -36,10 +36,10 @@ O conjunto de dados foi entregue pelo departamento de TI com as seguintes coluna
 #### Solução
 
 ##### Modelagem star schema
-![Star Schema]()
+![Star Schema](https://raw.githubusercontent.com/suhribeiro/datascience_projects/master/powerbi-2-dsa/Cap.3/images/star_schema.JPG)
 ##### Por fabricante
-![Fabricante]()
+![Dashboard](https://raw.githubusercontent.com/suhribeiro/datascience_projects/master/powerbi-2-dsa/Cap.3/images/Estudo_de_caso_2.JPG)
 ##### Dados usados e arquivo .pbix
-[Dados]()
+[Dados](https://github.com/suhribeiro/datascience_projects/tree/master/powerbi-2-dsa/Cap.3/data)
 
-[Arquivo .pbix]()
+[Arquivo .pbix](https://github.com/suhribeiro/datascience_projects/blob/master/powerbi-2-dsa/Cap.3/Estudocaso_2.pbix)
