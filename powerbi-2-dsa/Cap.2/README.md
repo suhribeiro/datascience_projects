@@ -40,7 +40,8 @@ O CEO está avaliando se continua ou não com a venda de automóveis da marca Ja
 evoluíram as vendas de automóveis deste fabricante por ano e por estado.
 
 #### Solução proposta
+
 ##### Visão geral
-![Visão Geral](images/visao_geral.jpg)
+![Visão Geral](https://raw.githubusercontent.com/suhribeiro/datascience_projects/master/powerbi-2-dsa/Cap.2/images/visao_geral.JPG)
 ##### Por fabricante
-![Fabricante](images/fabricante.jpg)
+![Fabricante](https://github.com/suhribeiro/datascience_projects/blob/master/powerbi-2-dsa/Cap.2/images/fabricante.JPG)
